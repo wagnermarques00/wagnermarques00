@@ -14,10 +14,26 @@ I'm a technology enthusiast who loves food, video games and news!
 ## Social media
 
 <div> 
-  <a href="https://instagram.com/wagnermarques00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=e0465c" target="_blank"></a>
- <a href="https://discord.com/users/365296551658127381" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5460e6" target="_blank"></a> 
-  <a href = "mailto:wagnermarques00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=de4032" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wagner-marques-oliveira-1446b522b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2" target="_blank"></a>
+	<a href="https://instagram.com/wagnermarques00" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=e0465c" target="_blank">
+    </a>
+    <a href="https://discord.com/users/365296551658127381" target="_blank">
+    	<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5460e6" target="_blank">
+    </a> 
+	<a href = "mailto:wagnermarques00@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=de4032" target="_blank">
+    </a>
+	<a href="https://www.linkedin.com/in/wagner-marques-oliveira-1446b522b" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2" target="_blank">
+    </a>
+</div>
+
+## Finished projects so far
+
+<div> 
+	<a href="https://frases-para-rivania.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Frases%20para%20Rivania-D23B68?style=for-the-badge&color=e0465c" target="_blank">
+    </a>
 </div>
 
 ## Technologies in which I had more contact so far
