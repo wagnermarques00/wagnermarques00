@@ -34,6 +34,9 @@ I'm a technology enthusiast who loves food, video games and news!
     <a href="https://frases-para-rivania.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Frases%20para%20Rivania-D23B68?style=for-the-badge&color=e0465c" target="_blank">
     </a>
+    <a href="https://estudo-riot-api.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Estudo%20Riot%20Api-D23B68?style=for-the-badge&color=0a66c2" target="_blank">
+    </a>
 </div>
 
 ## Technologies in which I had more contact so far
